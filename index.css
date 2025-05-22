@@ -1,13 +1,29 @@
 img {
-    width: 60%;
+    width: 30%;
     height: auto;
 }
 
-p{
+.titulo{
+    font-family:'Times New Roman', Times, serif;
     color: black;
-    font-style:oblique
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.espaço{
+    padding-left: 20px;
+}
+.espaçotexto{
+    padding-left: 40px;
 }
 
 p{
-    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: justify;
 }
+
+
