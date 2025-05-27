@@ -3,14 +3,10 @@ img {
     height: auto;
 }
 
-.titulo{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    padding-left: 20px;
-}
-
 a{
     text-decoration: none;
+    color: rgb(43, 127, 175);
+    font-size: 15px;
 }
 
 .espaço{
@@ -24,6 +20,12 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
     text-align: justify;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 20px;
 }
 
 
